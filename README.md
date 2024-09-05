@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in Java 
+# Tic Tac Toe Game in Java
 
 Welcome to the Tic Tac Toe Game repository! This project was developed as part of my internship at InternPe. The game is a simple console-based implementation of the classic Tic Tac Toe game, created using Java.
 
